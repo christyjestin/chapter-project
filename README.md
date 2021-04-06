@@ -20,10 +20,9 @@ You're free to use whatever libraries, packages, of frameworks you like. We're l
 
 Once you've made your tech selection, your web app should have the following capabilities:
 
-- Take as input a [Bid ID](#important-terms)
-- Search the provided list of plans for the relevant entry
+- Take as input a Bid ID
+- Search the provided list of Medicare Advantage plans for the relevant entry
 - Display the following information:
-
   - Insurance carrier
   - Plan name
   - Geographic area served by this plan
