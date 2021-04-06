@@ -36,6 +36,6 @@ Once you've made your tech selection, your web app should have the following cap
 
 ## Included Files
 
-- `medicare_plans.txt` - Contains basic information about Medicare plans. You'll use this file to search for Medicare Advantage plans.
+- `data/medicare_plans.txt` - Contains basic information about Medicare plans. You'll use this file to search for Medicare Advantage plans.
 
 If you get stuck, don't hesitate to reach out to darshan@getchapter.com or adam@getchapter.com with questions. Good luck!
